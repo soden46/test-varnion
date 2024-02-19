@@ -8,7 +8,7 @@ git clone https://github.com/soden46/test-varnion.git
 ```
 
 ## Langkah 3: Konfigurasi
-Duplikat file .env.example dan ubah namanya menjadi .env. Kemudian, konfigurasi file .env dengan informasi yang sesuai seperti pengaturan database dan URL aplikasi, perintah duplikat
+Duplikat file .env.example Kemudian, konfigurasi file .env dengan informasi yang sesuai seperti pengaturan database dan URL aplikasi, perintah duplikat
 
 ```bash
 cp .env.example .env
